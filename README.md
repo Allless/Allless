@@ -1,6 +1,6 @@
 ### Hi, I'm Hovhannes 👋
 
-Software engineer. I work on developer tools by day and ship small free web tools on the side.
+Software engineer. I ship small free web tools as a side hobby.
 
 **Things I've made:**
 - [Poker Planning](https://allless.github.io/poker-planning/) — real-time scrum estimation, no sign-up.
